@@ -31,6 +31,6 @@
 
 <!-- LINKS -->
 
-[website]: https://wa.link/g3medk
-[yt]: https://wa.link/g3medk
-[blog]: https://wa.link/g3medk
+[website]: #
+[yt]: #
+[blog]: #
