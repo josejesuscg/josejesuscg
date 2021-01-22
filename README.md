@@ -18,3 +18,17 @@
 [<img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][yt]
 
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][yt]
+<br/>
+
+---
+
+
+### 🎧 Spotify Playing
+
+[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="naviscode spotify playing" width="350" />]()
+
+<!-- LINKS -->
+
+[website]: https://wa.link/g3medk
+[yt]: https://wa.link/g3medk
+[blog]: https://wa.link/g3medk
