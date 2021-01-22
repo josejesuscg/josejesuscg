@@ -5,7 +5,7 @@
 
 - 🔭 Currently i work at private orders but i always open for cooperation
 - 🌱 I’m currently learning more about web dev
-- 📫 How to reach me:  href="https://wa.link/g3medk"
+- 📫 How to reach me:  "https://wa.link/g3medk"
 
 ### CODING🚀
 
