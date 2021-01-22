@@ -1,11 +1,11 @@
-### [Jose de Jesus Cova G]👋
+### JOSE DE JESUS COVA G👋
 
 
 ###  WEB DEVELOPER💻
 
 - 🔭 Currently i work at private orders but i always open for cooperation
 - 🌱 I’m currently learning more about web dev
-- 📫 How to reach me: Write me a message <img src="img/whatsapp.png" href="https://wa.link/g3medk"> 
+- 📫 How to reach me: Write me a message https://wa.link/g3medk <img src="img/whatsapp.png"> 
 
 ### CODE🚀
 
