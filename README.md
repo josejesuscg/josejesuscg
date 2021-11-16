@@ -1,13 +1,15 @@
 ### JOSE DE JESUS COVA G👋
 
 
-###  WEB DEVELOPER💻
+###  MOBILE DEVELOPER💻
 
-- 🔭 Currently i work at private orders but i always open for cooperation
-- 🌱 I’m currently learning more about web dev
-- 📫 How to reach me: Write me a message https://wa.link/g3medk <img src="img/whatsapp.png"> 
+- 🌱 Learning more about mobile development 
 
 ### CODE🚀
+
+[<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][yt]
+
+[<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />][yt]
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][yt]
 
